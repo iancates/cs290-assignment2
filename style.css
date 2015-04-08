@@ -4,3 +4,6 @@ b {color: blue;}
 table {
     table-layout: fixed;
 }
+dt:hover + dd{
+    color:purple;
+}
