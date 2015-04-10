@@ -7,3 +7,15 @@ table {
 dt:hover + dd{
     color:purple;
 }
+div.outer-content{
+    margin-top: 20px;
+    padding: 20px;
+    width: 75%;
+    background-color: pink;
+}
+div.inner-content{
+    background-color: blue;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
